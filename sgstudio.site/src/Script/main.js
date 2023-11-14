@@ -114,7 +114,7 @@ const page = {
           <h2>AykunCraft</h2>
           <p>BackEnd? or FrontEnd?, nope i'm All Role, yes i'm <b>FullStack</b>, I can do anything as long as there is a <b>Tutorial</b> or <b>Documentation</b>.</p>
           <h5>Known As:</h5>
-          <h4 class="rtext"><span id="rtext-value">AykunCraft</span><span id="rtext-cursor" class="rtext-cursor-active">|</span></h4>
+          <h4 class="rtext"><span id="rtext-value">AykunCraft</span>AykunCraft<span id="rtext-cursor" 
         </div>
         <div class="profile d-none d-md-block"></div>
       </div>
